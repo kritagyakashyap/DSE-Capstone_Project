@@ -1,5 +1,5 @@
 ## Topic Survey in brief
-#### WHAT WOULD WE ACHIEVE BY THIS PROJECT?
+### WHAT WOULD WE ACHIEVE BY THIS PROJECT?
 
 The focus of this project is developing machine learning models that can accurately predict
 the price of a used car based on its features, to make informed purchases. We will compare
@@ -9,8 +9,7 @@ Algorithms are used because they provide us with continuous values as output and
 categorical values because of which it will be possible to predict the actual price of a car
 rather than the price range of a car.
 
-
-#### THE KEY AREA AND GAPS IDENTIFIED IN THE TOPIC SURVEY WHERE THE PROJECT CAN ADD VALUE TO THE CUSTOMERS AND BUSINESS:
+### THE KEY AREA AND GAPS IDENTIFIED IN THE TOPIC SURVEY WHERE THE PROJECT CAN ADD VALUE TO THE CUSTOMERS AND BUSINESS:
 
 • It will improve clarity in the used car market by providing more accurate and reliable
 price estimates to buyers and sellers.
