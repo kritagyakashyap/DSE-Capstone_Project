@@ -1,28 +1,26 @@
-## Topic Survey in brief
-### WHAT WOULD WE ACHIEVE BY THIS PROJECT?
+### Used Car Price Prediction
 
-The focus of this project is developing machine learning models that can accurately predict
-the price of a used car based on its features, to make informed purchases. We will compare
-the performance of various machine learning algorithms and choose the best one out of them.
-Depending on various parameters we will determine the price of the car. Regression
-Algorithms are used because they provide us with continuous values as output and not
-categorical values because of which it will be possible to predict the actual price of a car
-rather than the price range of a car.
+This project aims to develop machine learning models that can accurately predict the price of a used car based on its features. By comparing various regression algorithms, the goal is to determine the best model for predicting car prices and add value to customers and businesses in the automotive sector.
 
-### THE KEY AREA AND GAPS IDENTIFIED IN THE TOPIC SURVEY WHERE THE PROJECT CAN ADD VALUE TO THE CUSTOMERS AND BUSINESS:
+## Project Objective
 
-• It will improve clarity in the used car market by providing more accurate and reliable
-price estimates to buyers and sellers.
+• Accurate Price Prediction: Develop a machine learning model that predicts the price of a used car based on its features.
+• Model Comparison: Compare different regression algorithms to select the most effective one.
 
-• It will reduce information imbalance between buyers and sellers, which can lead to
-more efficient and fair negotiations.
+## Key Area and Gaps Identified
 
-• It will be saving time and effort for buyers and sellers by providing a quick and easy
-way to estimate a car's value.
+• Improved Market Clarity: By providing accurate and reliable price estimates, the project helps reduce information asymmetry between buyers and sellers.
 
-• It can help dealerships and car rental companies in the automotive industry to improve
-their profits by suggesting ways to set prices effectively. This involves analyzing
-market trends, customer behaviour and competition, and implementing strategies like
-value-based pricing and dynamic pricing to stay competitive and maximize revenue.
-Regularly monitoring and adjusting prices can also help improve profitability.
+• Efficient Negotiations: More transparent pricing enables fairer and quicker negotiations, improving market efficiency.
 
+• Time-Saving: A quick estimation tool saves time and effort for both buyers and sellers.
+
+• Business Optimization: Car dealerships and rental companies can use insights from the model to adjust pricing strategies (e.g., value-based and dynamic pricing) based on market trends, customer behavior, and competition.
+
+## Algorithms Used
+
+•Regression Algorithms: Used for their ability to provide continuous value predictions, crucial for forecasting the actual price rather than just price ranges.
+
+## Outcome
+
+This project provides a framework for accurately predicting used car prices, helping customers make informed purchases and aiding businesses in optimizing their pricing strategies for increased profitability.
